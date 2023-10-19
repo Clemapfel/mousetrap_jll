@@ -1,0 +1,77 @@
+[[libmousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "951775c9cb8fb6aae80b261dd292d83b386021d1"
+os = "macos"
+
+    [[libmousetrap.download]]
+    sha256 = "86af7c3f55b40b379ebb08ebcc52b69c1ba4d1685bfd075096142ed7f55feacc"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-apple-darwin.tar.gz"
+[[libmousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "7b17a67345bfff26c4b2c39718c37dbe151e77c8"
+libc = "glibc"
+os = "linux"
+
+    [[libmousetrap.download]]
+    sha256 = "9a3ff30fddfd8233e123ee64690240d64ef9302c54be9972c9f1cb5850b545a2"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-gnu.tar.gz"
+[[libmousetrap]]
+arch = "aarch64"
+git-tree-sha1 = "59883bfd8409fa710ff9f9a9065d0124bc99d330"
+libc = "musl"
+os = "linux"
+
+    [[libmousetrap.download]]
+    sha256 = "46d078987af48827ab4dd4212d99fe0635a10003db76da96648ab443ca722c7d"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.aarch64-linux-musl.tar.gz"
+[[libmousetrap]]
+arch = "powerpc64le"
+git-tree-sha1 = "3a0bf38e9ec9dec3eaa0f9ce54c7a0a0e45a441c"
+libc = "glibc"
+os = "linux"
+
+    [[libmousetrap.download]]
+    sha256 = "97d77cf2c7ebed3f19fa9fb610de78015e92ff3381a0f626e68353f2ea6e338a"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.powerpc64le-linux-gnu.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "ef0be4270dcb0de753d5b452453358cebe124d09"
+os = "macos"
+
+    [[libmousetrap.download]]
+    sha256 = "704909a36be039c8fd310bc036469fbb4226a14df7b866489ef2245584f604db"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-apple-darwin.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "b292ae2e313d5ab559c9838dfb8390f192b4f3b8"
+libc = "glibc"
+os = "linux"
+
+    [[libmousetrap.download]]
+    sha256 = "182a3ffac2782f247ae77b996c1272c8af628fd95c1dc5e3d5f99a2cb44a0937"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-gnu.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "f4e87af7a1544b2001ae0dde0aab5b8f80239691"
+libc = "musl"
+os = "linux"
+
+    [[libmousetrap.download]]
+    sha256 = "5a60766b3a4d313fa4e3bd720304a62b243ed14aef6919f78f67736e268c67f0"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-linux-musl.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "8de91c8a16df323500150b5d7894b242afdc856d"
+os = "freebsd"
+
+    [[libmousetrap.download]]
+    sha256 = "f54e27da70cfe2de2850ef7f9846991ced3bff221739dcd44750870922c2e6db"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-unknown-freebsd.tar.gz"
+[[libmousetrap]]
+arch = "x86_64"
+git-tree-sha1 = "5c718f38a2a39d30382816a1ededdc5c47063b65"
+os = "windows"
+
+    [[libmousetrap.download]]
+    sha256 = "a3468500e8c4f668286b434ac26bda6ec5efefe519ebe288d476163f9df5d48b"
+    url = "https://github.com/Clemapfel/mousetrap_jll/releases/download/libmousetrap-v0.3.0+0/mousetrap.v0.3.0.x86_64-w64-mingw32.tar.gz"
